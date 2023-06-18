@@ -6,7 +6,6 @@ import Principal from './Principal.jsx';
 import Footer from './Footer.jsx';
 
 function App() {
-  const items = ['Elemento 1', 'Elemento 2', 'Elemento 3', 'Elemento 4'];
 
   return (
     <div>
