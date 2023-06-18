@@ -1,6 +1,5 @@
 import React from 'react'
 import '../Styles/BarraNav.css';
-// import '../js/BarraNav.js'
 
 const BarraNav = () => {
     return (
