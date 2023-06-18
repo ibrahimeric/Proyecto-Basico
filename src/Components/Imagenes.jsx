@@ -5,7 +5,7 @@ const Imagenes = () => {
     return (
         <>
         <div>
-            <h1>Imagenes</h1>
+            <h1></h1>
         </div>
         <img
             src={Img512}
@@ -15,6 +15,7 @@ const Imagenes = () => {
             src={Img512}
             className='img512-negro'
         ></img>
+        <br />
         <img
             src={Img512}
             className='img512-verde'

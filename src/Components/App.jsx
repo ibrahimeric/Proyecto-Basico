@@ -1,13 +1,13 @@
 import React from "react";
-import Imagenes from './Imagenes';
 import Header from "./Header";
+import Principal from './Principal';
 import Footer from './Footer';
 
 function App() {
   return (
     <div>
-      {/* <Imagenes></Imagenes> */}
       <Header></Header>
+      <Principal></Principal>
       <Footer></Footer>
     </div>
   );
