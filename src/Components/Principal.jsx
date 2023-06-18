@@ -1,10 +1,12 @@
 import React from 'react'
-import Imagenes from './Imagenes.jsx';
 import '../Styles/Principal.css'
+import Boton from './Boton.jsx';
+import Imagenes from './Imagenes.jsx';
 
 const Principal = () => {
     return (
         <div className='contenido-principal'>
+            <Boton></Boton>
             <Imagenes></Imagenes>
         </div>
     )

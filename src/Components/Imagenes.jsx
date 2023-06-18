@@ -5,8 +5,8 @@ import '../Styles/Imagenes.css'
 const Imagenes = () => {
     return (
         <>
-        <div>
-            <h1></h1>
+        <div className='imagenes-principal'>
+            <h1>Imagenes</h1>
         </div>
         <img
             src={Img512}
