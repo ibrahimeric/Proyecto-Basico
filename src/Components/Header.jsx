@@ -9,8 +9,20 @@ const Header = () => {
         </div>
         <img
             src={Img512}
-        >
-        </img>
+            className='img512-rojo'
+        ></img>
+        <img
+            src={Img512}
+            className='img512-negro'
+        ></img>
+        <img
+            src={Img512}
+            className='img512-verde'
+        ></img>
+        <img
+            src={Img512}
+            className='img512-azul'
+        ></img>
         </>
     )
 }
