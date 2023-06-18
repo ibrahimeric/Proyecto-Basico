@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Proyecto-Basico/build/static/css/main.9be5d09f.css",
-    "main.js": "/Proyecto-Basico/build/static/js/main.543799fe.js",
+    "main.css": "/Proyecto-Basico/build/static/css/main.f28700fa.css",
+    "main.js": "/Proyecto-Basico/build/static/js/main.db26eaa3.js",
     "static/media/first-slide.webp": "/Proyecto-Basico/build/static/media/first-slide.3b2e3653dcee10175af2.webp",
     "static/media/third-slide.webp": "/Proyecto-Basico/build/static/media/third-slide.b8e2d87e805188cb2934.webp",
     "static/media/second-slide.webp": "/Proyecto-Basico/build/static/media/second-slide.7507ecb599b05c4c1711.webp",
     "index.html": "/Proyecto-Basico/build/index.html",
-    "main.9be5d09f.css.map": "/Proyecto-Basico/build/static/css/main.9be5d09f.css.map",
-    "main.543799fe.js.map": "/Proyecto-Basico/build/static/js/main.543799fe.js.map"
+    "main.f28700fa.css.map": "/Proyecto-Basico/build/static/css/main.f28700fa.css.map",
+    "main.db26eaa3.js.map": "/Proyecto-Basico/build/static/js/main.db26eaa3.js.map"
   },
   "entrypoints": [
-    "static/css/main.9be5d09f.css",
-    "static/js/main.543799fe.js"
+    "static/css/main.f28700fa.css",
+    "static/js/main.db26eaa3.js"
   ]
 }

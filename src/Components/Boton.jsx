@@ -1,5 +1,6 @@
 import React from 'react'
 import 'bootstrap/dist/css/bootstrap.min.css';
+import '../Styles/Boton.css';
 import { useState } from 'react'; /* Hooks */
 
 function Boton() {
@@ -24,7 +25,7 @@ function Boton() {
     };
 
     return (
-        <div>
+        <div className='contenido-boton'>
             <h1>Boton</h1>
             <br />
             <button className='btn btn-primary' onClick = {incrementar}>
