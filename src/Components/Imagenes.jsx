@@ -1,5 +1,6 @@
 import React from 'react'
 import Img512 from '../img/logo512.png'
+import '../Styles/Imagenes.css'
 
 const Imagenes = () => {
     return (
