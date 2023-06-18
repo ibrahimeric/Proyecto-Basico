@@ -1,8 +1,6 @@
 .contenido-carousel {
     margin-bottom: 2.5rem;
-    display: block;
     width: 100%;
-    max-height: calc(100vh - 80px);
     font-style: oblique;
     object-fit: cover;
 }
